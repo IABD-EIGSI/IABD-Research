@@ -8,7 +8,7 @@ Ce dépôt a pour objectif de **centraliser les projets R&D**, de partager les m
 
 ## **Liste des sous-projets**
 
-### 1. Predicting the Geographical Evolution of the Tafilalet Oasis Using Deep Learning and Satellite Imagery
+### 1. (International Conference Paper) Predicting the Geographical Evolution of the Tafilalet Oasis Using Deep Learning and Satellite Imagery
 
 **Auteurs :**  
 Mathis Ehkirch¹, Paul Renardier¹, Soma Kouyate¹, Darly Junior Nguema¹, Emmanuel Bibang¹, Badr-Eddine Benelmostafa², Sohaib Baroud¹  
